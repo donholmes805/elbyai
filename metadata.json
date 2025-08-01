@@ -1,0 +1,6 @@
+{
+  "name": "Elby AI",
+  "description": "A sophisticated AI assistant for legal topics, featuring distinct modules for general law and specialized blockchain law. Users can chat with AI personas, analyze smart contracts, generate compliance playbooks, and more, all within a secure, role-based application.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
